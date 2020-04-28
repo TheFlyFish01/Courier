@@ -1,0 +1,384 @@
+﻿DEBUG 2020-04-01 10:11:39,230 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2020-04-01 10:11:40,052 [1    ] Abp.Modules.AbpModuleManager             - Found 9 ABP modules in total.
+DEBUG 2020-04-01 10:11:41,807 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyAbpStudy.Migrator.MyAbpStudyMigratorModule, MyAbpStudy.Migrator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-01 10:11:41,810 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyAbpStudy.EntityFrameworkCore.MyAbpStudyEntityFrameworkModule, MyAbpStudy.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-01 10:11:41,811 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyAbpStudy.MyAbpStudyCoreModule, MyAbpStudy.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-01 10:11:41,812 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-01 10:11:41,812 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-01 10:11:41,813 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-01 10:11:41,813 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-01 10:11:41,814 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-01 10:11:41,814 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-01 10:11:41,818 [1    ] Abp.Modules.AbpModuleManager             - 9 modules loaded.
+DEBUG 2020-04-01 10:11:44,849 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: MyAbpStudy.EntityFrameworkCore.MyAbpStudyDbContext, MyAbpStudy.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-01 10:11:47,466 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2020-04-01 10:11:47,723 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2020-04-01 10:11:47,818 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2020-04-01 10:11:47,866 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: MyAbpStudy
+DEBUG 2020-04-01 10:12:12,281 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2020-04-01 10:12:12,370 [1    ] Abp.Modules.AbpModuleManager             - Found 9 ABP modules in total.
+DEBUG 2020-04-01 10:12:12,682 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyAbpStudy.Migrator.MyAbpStudyMigratorModule, MyAbpStudy.Migrator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-01 10:12:12,685 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyAbpStudy.EntityFrameworkCore.MyAbpStudyEntityFrameworkModule, MyAbpStudy.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-01 10:12:12,685 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyAbpStudy.MyAbpStudyCoreModule, MyAbpStudy.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-01 10:12:12,686 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-01 10:12:12,686 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-01 10:12:12,686 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-01 10:12:12,687 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-01 10:12:12,687 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-01 10:12:12,688 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-01 10:12:12,691 [1    ] Abp.Modules.AbpModuleManager             - 9 modules loaded.
+DEBUG 2020-04-01 10:12:13,378 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: MyAbpStudy.EntityFrameworkCore.MyAbpStudyDbContext, MyAbpStudy.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-01 10:12:14,379 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2020-04-01 10:12:14,528 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2020-04-01 10:12:14,627 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2020-04-01 10:12:14,668 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: MyAbpStudy
+DEBUG 2020-04-01 10:12:38,540 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2020-04-01 10:12:38,650 [1    ] Abp.Modules.AbpModuleManager             - Found 9 ABP modules in total.
+DEBUG 2020-04-01 10:12:38,949 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyAbpStudy.Migrator.MyAbpStudyMigratorModule, MyAbpStudy.Migrator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-01 10:12:38,951 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyAbpStudy.EntityFrameworkCore.MyAbpStudyEntityFrameworkModule, MyAbpStudy.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-01 10:12:38,952 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyAbpStudy.MyAbpStudyCoreModule, MyAbpStudy.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-01 10:12:38,952 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-01 10:12:38,953 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-01 10:12:38,953 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-01 10:12:38,953 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-01 10:12:38,954 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-01 10:12:38,954 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-01 10:12:38,958 [1    ] Abp.Modules.AbpModuleManager             - 9 modules loaded.
+DEBUG 2020-04-01 10:12:39,582 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: MyAbpStudy.EntityFrameworkCore.MyAbpStudyDbContext, MyAbpStudy.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-01 10:12:40,605 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2020-04-01 10:12:40,745 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2020-04-01 10:12:40,829 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2020-04-01 10:12:40,868 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: MyAbpStudy
+INFO  2020-04-01 10:12:41,163 [1    ] MyAbpStudy.Migrator.Log                  - Host database: server=localhost;database=MyAbpStudyDb;user id=*****;password=*****
+INFO  2020-04-01 10:12:41,167 [1    ] MyAbpStudy.Migrator.Log                  - Continue to migration for this host database and all tenants..? (Y/N): 
+INFO  2020-04-01 10:29:21,686 [1    ] MyAbpStudy.Migrator.Log                  - Migration canceled.
+DEBUG 2020-04-01 10:29:35,834 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2020-04-01 10:29:35,931 [1    ] Abp.Modules.AbpModuleManager             - Found 9 ABP modules in total.
+DEBUG 2020-04-01 10:29:36,207 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyAbpStudy.Migrator.MyAbpStudyMigratorModule, MyAbpStudy.Migrator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-01 10:29:36,209 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyAbpStudy.EntityFrameworkCore.MyAbpStudyEntityFrameworkModule, MyAbpStudy.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-01 10:29:36,210 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyAbpStudy.MyAbpStudyCoreModule, MyAbpStudy.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-01 10:29:36,210 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-01 10:29:36,211 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-01 10:29:36,211 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-01 10:29:36,211 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-01 10:29:36,212 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-01 10:29:36,212 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-01 10:29:36,216 [1    ] Abp.Modules.AbpModuleManager             - 9 modules loaded.
+DEBUG 2020-04-01 10:29:36,847 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: MyAbpStudy.EntityFrameworkCore.MyAbpStudyDbContext, MyAbpStudy.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-01 10:29:37,861 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2020-04-01 10:29:38,001 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2020-04-01 10:29:38,094 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2020-04-01 10:29:38,139 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: MyAbpStudy
+INFO  2020-04-01 10:29:38,423 [1    ] MyAbpStudy.Migrator.Log                  - Host database: server=localhost;database=MyAbpStudyDb;user id=*****;password=*****
+INFO  2020-04-01 10:29:38,424 [1    ] MyAbpStudy.Migrator.Log                  - Continue to migration for this host database and all tenants..? (Y/N): 
+INFO  2020-04-01 10:29:49,323 [1    ] MyAbpStudy.Migrator.Log                  - HOST database migration started...
+INFO  2020-04-01 10:30:15,125 [1    ] MyAbpStudy.Migrator.Log                  - HOST database migration completed.
+INFO  2020-04-01 10:30:15,126 [1    ] MyAbpStudy.Migrator.Log                  - --------------------------------------------------------
+INFO  2020-04-01 10:30:15,260 [1    ] MyAbpStudy.Migrator.Log                  - All databases have been migrated.
+DEBUG 2020-04-13 16:13:52,698 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2020-04-13 16:13:53,468 [1    ] Abp.Modules.AbpModuleManager             - Found 9 ABP modules in total.
+DEBUG 2020-04-13 16:13:54,729 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyAbpStudy.Migrator.MyAbpStudyMigratorModule, MyAbpStudy.Migrator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-13 16:13:54,732 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyAbpStudy.EntityFrameworkCore.MyAbpStudyEntityFrameworkModule, MyAbpStudy.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-13 16:13:54,733 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyAbpStudy.MyAbpStudyCoreModule, MyAbpStudy.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-13 16:13:54,733 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-13 16:13:54,734 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-13 16:13:54,734 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-13 16:13:54,735 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-13 16:13:54,735 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-13 16:13:54,736 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-13 16:13:54,740 [1    ] Abp.Modules.AbpModuleManager             - 9 modules loaded.
+DEBUG 2020-04-13 16:13:56,563 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: MyAbpStudy.EntityFrameworkCore.MyAbpStudyDbContext, MyAbpStudy.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-13 16:13:58,625 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2020-04-13 16:13:58,890 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2020-04-13 16:13:58,978 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2020-04-13 16:13:59,021 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: MyAbpStudy
+INFO  2020-04-13 16:13:59,736 [1    ] MyAbpStudy.Migrator.Log                  - Host database: server=localhost;database=MyAbpStudyDb;user id=*****;password=*****
+INFO  2020-04-13 16:13:59,743 [1    ] MyAbpStudy.Migrator.Log                  - Continue to migration for this host database and all tenants..? (Y/N): 
+INFO  2020-04-13 16:14:07,659 [1    ] MyAbpStudy.Migrator.Log                  - HOST database migration started...
+INFO  2020-04-13 16:14:17,976 [1    ] MyAbpStudy.Migrator.Log                  - An error occured during migration of host database:
+INFO  2020-04-13 16:14:18,768 [1    ] MyAbpStudy.Migrator.Log                  - Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): 将 expression 转换为数据类型 int 时出现算术溢出错误。
+语句已终止。
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:7edb4c69-fa76-4b0f-a605-357c21bcea1e
+Error Number:8115,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at Abp.EntityFrameworkCore.AbpDbContext.SaveChanges()
+   at Abp.Zero.EntityFrameworkCore.AbpZeroCommonDbContext`3.SaveChanges()
+   at MyAbpStudy.EntityFrameworkCore.Seed.Host.DefaultCourierCompanyCreator.CreateCourierCompanys() in F:\个人文件\学习笔记\abp\MyAbpStudy\5.4.0\aspnet-core\src\MyAbpStudy.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\DefaultCourierCompanyCreator.cs:line 44
+   at MyAbpStudy.EntityFrameworkCore.Seed.Host.DefaultCourierCompanyCreator.Create() in F:\个人文件\学习笔记\abp\MyAbpStudy\5.4.0\aspnet-core\src\MyAbpStudy.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\DefaultCourierCompanyCreator.cs:line 36
+   at MyAbpStudy.EntityFrameworkCore.Seed.Host.InitialHostDbBuilder.Create() in F:\个人文件\学习笔记\abp\MyAbpStudy\5.4.0\aspnet-core\src\MyAbpStudy.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\InitialHostDbBuilder.cs:line 18
+   at MyAbpStudy.EntityFrameworkCore.Seed.SeedHelper.SeedHostDb(MyAbpStudyDbContext context) in F:\个人文件\学习笔记\abp\MyAbpStudy\5.4.0\aspnet-core\src\MyAbpStudy.EntityFrameworkCore\EntityFrameworkCore\Seed\SeedHelper.cs:line 25
+   at Abp.Zero.EntityFrameworkCore.AbpZeroDbMigrator`1.CreateOrMigrate(AbpTenantBase tenant, Action`1 seedAction)
+   at Abp.Zero.EntityFrameworkCore.AbpZeroDbMigrator`1.CreateOrMigrateForHost(Action`1 seedAction)
+   at MyAbpStudy.Migrator.MultiTenantMigrateExecuter.Run(Boolean skipConnVerification) in F:\个人文件\学习笔记\abp\MyAbpStudy\5.4.0\aspnet-core\src\MyAbpStudy.Migrator\MultiTenantMigrateExecuter.cs:line 62
+INFO  2020-04-13 16:14:18,773 [1    ] MyAbpStudy.Migrator.Log                  - Canceled migrations.
+DEBUG 2020-04-13 17:05:22,214 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2020-04-13 17:05:22,965 [1    ] Abp.Modules.AbpModuleManager             - Found 9 ABP modules in total.
+DEBUG 2020-04-13 17:05:23,599 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyAbpStudy.Migrator.MyAbpStudyMigratorModule, MyAbpStudy.Migrator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-13 17:05:23,602 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyAbpStudy.EntityFrameworkCore.MyAbpStudyEntityFrameworkModule, MyAbpStudy.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-13 17:05:23,602 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyAbpStudy.MyAbpStudyCoreModule, MyAbpStudy.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-13 17:05:23,603 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-13 17:05:23,603 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-13 17:05:23,603 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-13 17:05:23,604 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-13 17:05:23,605 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-13 17:05:23,605 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-13 17:05:23,609 [1    ] Abp.Modules.AbpModuleManager             - 9 modules loaded.
+DEBUG 2020-04-13 17:05:25,062 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: MyAbpStudy.EntityFrameworkCore.MyAbpStudyDbContext, MyAbpStudy.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-13 17:05:27,681 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2020-04-13 17:05:27,902 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2020-04-13 17:05:27,990 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2020-04-13 17:05:28,048 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: MyAbpStudy
+INFO  2020-04-13 17:05:28,602 [1    ] MyAbpStudy.Migrator.Log                  - Host database: server=localhost;database=MyAbpStudyDb;user id=*****;password=*****
+INFO  2020-04-13 17:05:28,604 [1    ] MyAbpStudy.Migrator.Log                  - Continue to migration for this host database and all tenants..? (Y/N): 
+INFO  2020-04-13 17:05:37,876 [1    ] MyAbpStudy.Migrator.Log                  - HOST database migration started...
+INFO  2020-04-13 17:05:46,414 [1    ] MyAbpStudy.Migrator.Log                  - HOST database migration completed.
+INFO  2020-04-13 17:05:46,414 [1    ] MyAbpStudy.Migrator.Log                  - --------------------------------------------------------
+INFO  2020-04-13 17:05:46,695 [1    ] MyAbpStudy.Migrator.Log                  - All databases have been migrated.
+DEBUG 2020-04-13 17:06:31,448 [1    ] Abp.Modules.AbpModuleManager             - Shutting down has been started
+DEBUG 2020-04-13 17:06:31,449 [1    ] Abp.Modules.AbpModuleManager             - Shutting down completed.
+DEBUG 2020-04-13 17:46:02,032 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2020-04-13 17:46:02,886 [1    ] Abp.Modules.AbpModuleManager             - Found 9 ABP modules in total.
+DEBUG 2020-04-13 17:46:03,937 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyAbpStudy.Migrator.MyAbpStudyMigratorModule, MyAbpStudy.Migrator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-13 17:46:03,940 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyAbpStudy.EntityFrameworkCore.MyAbpStudyEntityFrameworkModule, MyAbpStudy.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-13 17:46:03,941 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyAbpStudy.MyAbpStudyCoreModule, MyAbpStudy.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-13 17:46:03,941 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-13 17:46:03,941 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-13 17:46:03,942 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-13 17:46:03,942 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-13 17:46:03,943 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-13 17:46:03,943 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-13 17:46:03,947 [1    ] Abp.Modules.AbpModuleManager             - 9 modules loaded.
+DEBUG 2020-04-13 17:46:05,590 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: MyAbpStudy.EntityFrameworkCore.MyAbpStudyDbContext, MyAbpStudy.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-13 17:46:07,765 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2020-04-13 17:46:08,012 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2020-04-13 17:46:08,099 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2020-04-13 17:46:08,165 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: MyAbpStudy
+INFO  2020-04-13 17:46:08,855 [1    ] MyAbpStudy.Migrator.Log                  - Host database: server=localhost;database=MyAbpStudyDb;user id=*****;password=*****
+INFO  2020-04-13 17:46:08,856 [1    ] MyAbpStudy.Migrator.Log                  - Continue to migration for this host database and all tenants..? (Y/N): 
+INFO  2020-04-13 17:46:48,210 [1    ] MyAbpStudy.Migrator.Log                  - HOST database migration started...
+INFO  2020-04-13 17:47:09,541 [1    ] MyAbpStudy.Migrator.Log                  - HOST database migration completed.
+INFO  2020-04-13 17:47:09,542 [1    ] MyAbpStudy.Migrator.Log                  - --------------------------------------------------------
+INFO  2020-04-13 17:47:09,711 [1    ] MyAbpStudy.Migrator.Log                  - All databases have been migrated.
+DEBUG 2020-04-13 17:56:08,402 [1    ] Abp.Modules.AbpModuleManager             - Shutting down has been started
+DEBUG 2020-04-13 17:56:08,403 [1    ] Abp.Modules.AbpModuleManager             - Shutting down completed.
+DEBUG 2020-04-13 17:56:49,680 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2020-04-13 17:56:49,882 [1    ] Abp.Modules.AbpModuleManager             - Found 9 ABP modules in total.
+DEBUG 2020-04-13 17:56:50,645 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyAbpStudy.Migrator.MyAbpStudyMigratorModule, MyAbpStudy.Migrator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-13 17:56:50,648 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyAbpStudy.EntityFrameworkCore.MyAbpStudyEntityFrameworkModule, MyAbpStudy.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-13 17:56:50,649 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyAbpStudy.MyAbpStudyCoreModule, MyAbpStudy.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-13 17:56:50,649 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-13 17:56:50,650 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-13 17:56:50,650 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-13 17:56:50,651 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-13 17:56:50,651 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-13 17:56:50,652 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-13 17:56:50,655 [1    ] Abp.Modules.AbpModuleManager             - 9 modules loaded.
+DEBUG 2020-04-13 17:56:51,869 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: MyAbpStudy.EntityFrameworkCore.MyAbpStudyDbContext, MyAbpStudy.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-13 17:56:53,316 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2020-04-13 17:56:53,450 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2020-04-13 17:56:53,535 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2020-04-13 17:56:53,574 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: MyAbpStudy
+INFO  2020-04-13 17:56:53,909 [1    ] MyAbpStudy.Migrator.Log                  - Host database: server=localhost;database=MyAbpStudyDb;user id=*****;password=*****
+INFO  2020-04-13 17:56:53,910 [1    ] MyAbpStudy.Migrator.Log                  - Continue to migration for this host database and all tenants..? (Y/N): 
+INFO  2020-04-13 17:56:58,418 [1    ] MyAbpStudy.Migrator.Log                  - HOST database migration started...
+INFO  2020-04-13 17:57:03,313 [1    ] MyAbpStudy.Migrator.Log                  - HOST database migration completed.
+INFO  2020-04-13 17:57:03,314 [1    ] MyAbpStudy.Migrator.Log                  - --------------------------------------------------------
+INFO  2020-04-13 17:57:03,404 [1    ] MyAbpStudy.Migrator.Log                  - All databases have been migrated.
+DEBUG 2020-04-14 13:33:14,467 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2020-04-14 13:33:15,160 [1    ] Abp.Modules.AbpModuleManager             - Found 9 ABP modules in total.
+DEBUG 2020-04-14 13:33:16,263 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyAbpStudy.Migrator.MyAbpStudyMigratorModule, MyAbpStudy.Migrator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-14 13:33:16,266 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyAbpStudy.EntityFrameworkCore.MyAbpStudyEntityFrameworkModule, MyAbpStudy.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-14 13:33:16,267 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyAbpStudy.MyAbpStudyCoreModule, MyAbpStudy.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-14 13:33:16,268 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-14 13:33:16,268 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-14 13:33:16,268 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-14 13:33:16,269 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-14 13:33:16,270 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-14 13:33:16,270 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-14 13:33:16,274 [1    ] Abp.Modules.AbpModuleManager             - 9 modules loaded.
+DEBUG 2020-04-14 13:33:17,989 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: MyAbpStudy.EntityFrameworkCore.MyAbpStudyDbContext, MyAbpStudy.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-14 13:33:20,179 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2020-04-14 13:33:20,379 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2020-04-14 13:33:20,463 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2020-04-14 13:33:20,503 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: MyAbpStudy
+INFO  2020-04-14 13:33:21,101 [1    ] MyAbpStudy.Migrator.Log                  - Host database: server=localhost;database=MyAbpStudyDb;user id=*****;password=*****
+INFO  2020-04-14 13:33:21,103 [1    ] MyAbpStudy.Migrator.Log                  - Continue to migration for this host database and all tenants..? (Y/N): 
+INFO  2020-04-14 13:33:24,454 [1    ] MyAbpStudy.Migrator.Log                  - HOST database migration started...
+INFO  2020-04-14 13:33:31,605 [1    ] MyAbpStudy.Migrator.Log                  - An error occured during migration of host database:
+INFO  2020-04-14 13:33:31,828 [1    ] MyAbpStudy.Migrator.Log                  - Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): 对象名 'CourierCompanys' 无效。
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:7522d641-351e-4ceb-8c61-50ca819e58da
+Error Number:208,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at Abp.EntityFrameworkCore.AbpDbContext.SaveChanges()
+   at Abp.Zero.EntityFrameworkCore.AbpZeroCommonDbContext`3.SaveChanges()
+   at MyAbpStudy.EntityFrameworkCore.Seed.Host.DefaultCourierCompanyCreator.CreateCourierCompanys() in F:\个人文件\学习笔记\abp\MyAbpStudy\5.4.0\aspnet-core\src\MyAbpStudy.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\DefaultCourierCompanyCreator.cs:line 44
+   at MyAbpStudy.EntityFrameworkCore.Seed.Host.DefaultCourierCompanyCreator.Create() in F:\个人文件\学习笔记\abp\MyAbpStudy\5.4.0\aspnet-core\src\MyAbpStudy.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\DefaultCourierCompanyCreator.cs:line 36
+   at MyAbpStudy.EntityFrameworkCore.Seed.Host.InitialHostDbBuilder.Create() in F:\个人文件\学习笔记\abp\MyAbpStudy\5.4.0\aspnet-core\src\MyAbpStudy.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\InitialHostDbBuilder.cs:line 18
+   at MyAbpStudy.EntityFrameworkCore.Seed.SeedHelper.SeedHostDb(MyAbpStudyDbContext context) in F:\个人文件\学习笔记\abp\MyAbpStudy\5.4.0\aspnet-core\src\MyAbpStudy.EntityFrameworkCore\EntityFrameworkCore\Seed\SeedHelper.cs:line 25
+   at Abp.Zero.EntityFrameworkCore.AbpZeroDbMigrator`1.CreateOrMigrate(AbpTenantBase tenant, Action`1 seedAction)
+   at Abp.Zero.EntityFrameworkCore.AbpZeroDbMigrator`1.CreateOrMigrateForHost(Action`1 seedAction)
+   at MyAbpStudy.Migrator.MultiTenantMigrateExecuter.Run(Boolean skipConnVerification) in F:\个人文件\学习笔记\abp\MyAbpStudy\5.4.0\aspnet-core\src\MyAbpStudy.Migrator\MultiTenantMigrateExecuter.cs:line 62
+INFO  2020-04-14 13:33:31,830 [1    ] MyAbpStudy.Migrator.Log                  - Canceled migrations.
+DEBUG 2020-04-14 13:35:35,279 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2020-04-14 13:35:35,449 [1    ] Abp.Modules.AbpModuleManager             - Found 9 ABP modules in total.
+DEBUG 2020-04-14 13:35:35,766 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyAbpStudy.Migrator.MyAbpStudyMigratorModule, MyAbpStudy.Migrator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-14 13:35:35,769 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyAbpStudy.EntityFrameworkCore.MyAbpStudyEntityFrameworkModule, MyAbpStudy.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-14 13:35:35,769 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyAbpStudy.MyAbpStudyCoreModule, MyAbpStudy.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-14 13:35:35,770 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-14 13:35:35,770 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-14 13:35:35,770 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-14 13:35:35,771 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-14 13:35:35,771 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-14 13:35:35,772 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-14 13:35:35,776 [1    ] Abp.Modules.AbpModuleManager             - 9 modules loaded.
+DEBUG 2020-04-14 13:35:36,470 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: MyAbpStudy.EntityFrameworkCore.MyAbpStudyDbContext, MyAbpStudy.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-14 13:35:37,582 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2020-04-14 13:35:37,713 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2020-04-14 13:35:37,798 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2020-04-14 13:35:37,841 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: MyAbpStudy
+INFO  2020-04-14 13:35:38,134 [1    ] MyAbpStudy.Migrator.Log                  - Host database: server=localhost;database=MyAbpStudyDb;user id=*****;password=*****
+INFO  2020-04-14 13:35:38,135 [1    ] MyAbpStudy.Migrator.Log                  - Continue to migration for this host database and all tenants..? (Y/N): 
+INFO  2020-04-14 13:35:40,971 [1    ] MyAbpStudy.Migrator.Log                  - HOST database migration started...
+INFO  2020-04-14 13:35:45,447 [1    ] MyAbpStudy.Migrator.Log                  - An error occured during migration of host database:
+INFO  2020-04-14 13:35:45,557 [1    ] MyAbpStudy.Migrator.Log                  - Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): 列名 'CourierId' 无效。
+列名 'CourierName' 无效。
+列名 'CourierPeople' 无效。
+列名 'CreationTime' 无效。
+列名 'Money' 无效。
+列名 'PhoneNumber' 无效。
+列名 'Id' 无效。
+列名 'Id' 无效。
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:aeac775c-2502-4733-80f9-c7989156ea71
+Error Number:207,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at Abp.EntityFrameworkCore.AbpDbContext.SaveChanges()
+   at Abp.Zero.EntityFrameworkCore.AbpZeroCommonDbContext`3.SaveChanges()
+   at MyAbpStudy.EntityFrameworkCore.Seed.Host.DefaultCourierCompanyCreator.CreateCourierCompanys() in F:\个人文件\学习笔记\abp\MyAbpStudy\5.4.0\aspnet-core\src\MyAbpStudy.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\DefaultCourierCompanyCreator.cs:line 44
+   at MyAbpStudy.EntityFrameworkCore.Seed.Host.DefaultCourierCompanyCreator.Create() in F:\个人文件\学习笔记\abp\MyAbpStudy\5.4.0\aspnet-core\src\MyAbpStudy.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\DefaultCourierCompanyCreator.cs:line 36
+   at MyAbpStudy.EntityFrameworkCore.Seed.Host.InitialHostDbBuilder.Create() in F:\个人文件\学习笔记\abp\MyAbpStudy\5.4.0\aspnet-core\src\MyAbpStudy.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\InitialHostDbBuilder.cs:line 18
+   at MyAbpStudy.EntityFrameworkCore.Seed.SeedHelper.SeedHostDb(MyAbpStudyDbContext context) in F:\个人文件\学习笔记\abp\MyAbpStudy\5.4.0\aspnet-core\src\MyAbpStudy.EntityFrameworkCore\EntityFrameworkCore\Seed\SeedHelper.cs:line 25
+   at Abp.Zero.EntityFrameworkCore.AbpZeroDbMigrator`1.CreateOrMigrate(AbpTenantBase tenant, Action`1 seedAction)
+   at Abp.Zero.EntityFrameworkCore.AbpZeroDbMigrator`1.CreateOrMigrateForHost(Action`1 seedAction)
+   at MyAbpStudy.Migrator.MultiTenantMigrateExecuter.Run(Boolean skipConnVerification) in F:\个人文件\学习笔记\abp\MyAbpStudy\5.4.0\aspnet-core\src\MyAbpStudy.Migrator\MultiTenantMigrateExecuter.cs:line 62
+INFO  2020-04-14 13:35:45,559 [1    ] MyAbpStudy.Migrator.Log                  - Canceled migrations.
+DEBUG 2020-04-14 14:13:51,216 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2020-04-14 14:13:51,422 [1    ] Abp.Modules.AbpModuleManager             - Found 9 ABP modules in total.
+DEBUG 2020-04-14 14:13:51,729 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyAbpStudy.Migrator.MyAbpStudyMigratorModule, MyAbpStudy.Migrator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-14 14:13:51,732 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyAbpStudy.EntityFrameworkCore.MyAbpStudyEntityFrameworkModule, MyAbpStudy.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-14 14:13:51,733 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyAbpStudy.MyAbpStudyCoreModule, MyAbpStudy.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-14 14:13:51,733 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-14 14:13:51,733 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-14 14:13:51,734 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-14 14:13:51,734 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-14 14:13:51,735 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-14 14:13:51,735 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-14 14:13:51,739 [1    ] Abp.Modules.AbpModuleManager             - 9 modules loaded.
+DEBUG 2020-04-14 14:13:52,405 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: MyAbpStudy.EntityFrameworkCore.MyAbpStudyDbContext, MyAbpStudy.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-14 14:13:53,504 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2020-04-14 14:13:53,632 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2020-04-14 14:13:53,713 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2020-04-14 14:13:53,753 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: MyAbpStudy
+INFO  2020-04-14 14:13:54,053 [1    ] MyAbpStudy.Migrator.Log                  - Host database: server=localhost;database=MyAbpStudyDb;user id=*****;password=*****
+INFO  2020-04-14 14:13:54,053 [1    ] MyAbpStudy.Migrator.Log                  - Continue to migration for this host database and all tenants..? (Y/N): 
+INFO  2020-04-14 14:13:58,203 [1    ] MyAbpStudy.Migrator.Log                  - HOST database migration started...
+INFO  2020-04-14 14:14:02,896 [1    ] MyAbpStudy.Migrator.Log                  - HOST database migration completed.
+INFO  2020-04-14 14:14:02,897 [1    ] MyAbpStudy.Migrator.Log                  - --------------------------------------------------------
+INFO  2020-04-14 14:14:03,028 [1    ] MyAbpStudy.Migrator.Log                  - All databases have been migrated.
+DEBUG 2020-04-15 14:35:20,189 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2020-04-15 14:35:21,749 [1    ] Abp.Modules.AbpModuleManager             - Found 9 ABP modules in total.
+DEBUG 2020-04-15 14:35:23,923 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyAbpStudy.Migrator.MyAbpStudyMigratorModule, MyAbpStudy.Migrator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-15 14:35:23,926 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyAbpStudy.EntityFrameworkCore.MyAbpStudyEntityFrameworkModule, MyAbpStudy.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-15 14:35:23,927 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyAbpStudy.MyAbpStudyCoreModule, MyAbpStudy.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-15 14:35:23,927 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-15 14:35:23,927 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-15 14:35:23,928 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-15 14:35:23,928 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-15 14:35:23,929 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-15 14:35:23,929 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-15 14:35:23,933 [1    ] Abp.Modules.AbpModuleManager             - 9 modules loaded.
+DEBUG 2020-04-15 14:35:26,881 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: MyAbpStudy.EntityFrameworkCore.MyAbpStudyDbContext, MyAbpStudy.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-04-15 14:35:29,457 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2020-04-15 14:35:30,176 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2020-04-15 14:35:30,532 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2020-04-15 14:35:30,665 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: MyAbpStudy
+INFO  2020-04-15 14:35:45,934 [1    ] MyAbpStudy.Migrator.Log                  - Host database: server=localhost;database=MyAbpStudyDb;user id=*****;password=*****
+INFO  2020-04-15 14:35:45,934 [1    ] MyAbpStudy.Migrator.Log                  - Continue to migration for this host database and all tenants..? (Y/N): 
+INFO  2020-04-15 14:36:14,002 [1    ] MyAbpStudy.Migrator.Log                  - HOST database migration started...
+INFO  2020-04-15 14:37:09,944 [1    ] MyAbpStudy.Migrator.Log                  - HOST database migration completed.
+INFO  2020-04-15 14:37:09,945 [1    ] MyAbpStudy.Migrator.Log                  - --------------------------------------------------------
+INFO  2020-04-15 14:37:10,072 [1    ] MyAbpStudy.Migrator.Log                  - All databases have been migrated.
